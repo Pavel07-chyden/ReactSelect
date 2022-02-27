@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pavel07-chyden/ReactSelect.git/static/css/main.b16bd708.css",
+    "main.js": "/Pavel07-chyden/ReactSelect.git/static/js/main.7c0b091e.js",
+    "index.html": "/Pavel07-chyden/ReactSelect.git/index.html",
+    "main.b16bd708.css.map": "/Pavel07-chyden/ReactSelect.git/static/css/main.b16bd708.css.map",
+    "main.7c0b091e.js.map": "/Pavel07-chyden/ReactSelect.git/static/js/main.7c0b091e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b16bd708.css",
+    "static/js/main.7c0b091e.js"
+  ]
+}
